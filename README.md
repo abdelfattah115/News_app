@@ -5,6 +5,7 @@ A new Flutter project.
 ## Description
 
 Stack: SQLite, Database
+
  An app to view all new and exclusive news from all Egyptian
  news sites and search for any Egyptian international news builds
  Using the free API and DIO helper, Bloc, and preference
