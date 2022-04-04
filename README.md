@@ -9,12 +9,14 @@ A new Flutter project.
  packages.
  
  ### Usage Libraries
-  - bloc:
-  - flutter_bloc: 
-  - dio:
-  - hexcolor: 
-  - shared_preferences: 
-  - webview_flutter:
+  - bloc
+  - flutter_bloc
+  - dio
+  - hexcolor
+  - shared_preferences
+  - webview_flutter
+
+https://user-images.githubusercontent.com/74645031/161564429-7261c2f9-93c7-42c4-b5bf-c9fee7764a7c.mp4
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
